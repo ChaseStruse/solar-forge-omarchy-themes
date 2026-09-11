@@ -1,7 +1,7 @@
 mode = "dark"
 
 # Neon Megacity — hot magenta against electric cyan and ultraviolet shadows.
-accent = "#ff2bd6"
+accent = "#26e6ff"
 selection = "#38245c"
 muted = "#66547f"
 
