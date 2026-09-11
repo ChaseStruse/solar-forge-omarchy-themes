@@ -1,0 +1,32 @@
+mode = "dark"
+
+# Neon Megacity — hot magenta against electric cyan and ultraviolet shadows.
+accent = "#ff2bd6"
+selection = "#38245c"
+muted = "#66547f"
+
+background = "#100a1c"
+dark_background = "#090610"
+darker_background = "#050308"
+lighter_background = "#211536"
+
+foreground = "#f4ecff"
+dark_foreground = "#8e7ca8"
+light_foreground = "#d8c9ec"
+bright_foreground = "#ffffff"
+
+red = "#ff3b5c"
+yellow = "#ffd166"
+orange = "#ff7849"
+green = "#39ff88"
+cyan = "#26e6ff"
+blue = "#398bff"
+magenta = "#ff2bd6"
+brown = "#9c6b7b"
+
+bright_red = "#ff5874"
+bright_yellow = "#ffe082"
+bright_green = "#63ffa3"
+bright_cyan = "#6af2ff"
+bright_blue = "#6ca8ff"
+bright_magenta = "#ff6be5"
