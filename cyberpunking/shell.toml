@@ -1,0 +1,78 @@
+# Cyberpunking shell: cyan navigation, magenta selection, midnight surfaces.
+# Unspecified tokens inherit Omarchy's palette-based defaults.
+[hyprland]
+active-border = "rgba(26e6ffff) rgba(ff2bd6ff) rgba(7a5cffff) 45deg"
+active-border-foreground = "rgba(26e6ffff) rgba(ff2bd6ff) 45deg"
+
+[bar]
+background = "#090d17"
+background-alpha = 0.97
+text = "#d8eafa"
+active = "#ff6be5"
+size-horizontal = 30
+size-vertical = 32
+
+[controls]
+normal-color = "#d8c9ec"
+normal-border = "#9186ad"
+normal-border-alpha = 0.35
+hover-cursor-color = "#26e6ff"
+hover-cursor-border = "#26e6ff"
+hover-cursor-fill-alpha = 0.12
+hover-cursor-border-alpha = 0.75
+focus-color = "#26e6ff"
+focus-border = "#26e6ff"
+focus-border-alpha = 1.0
+focus-fill-alpha = 0.12
+selected-color = "#ff6be5"
+selected-border = "#ff2bd6"
+selected-border-width = 1
+selected-fill-alpha = 0.14
+
+[popups]
+background = "#0b101b"
+background-alpha = 0.98
+border = "hyprland.active-border"
+border-width = 2
+
+[notifications]
+background = "#0b101b"
+background-alpha = 0.98
+border = "hyprland.active-border"
+border-width = "2 2 2 4"
+countdown = "#ff6be5"
+
+[menu]
+background = "#0b101b"
+background-alpha = 0.98
+border = "hyprland.active-border"
+scrim = "#050308"
+scrim-alpha = 0.6
+selected-background = "#ff2bd6"
+selected-background-alpha = 0.14
+selected-text = "#6af2ff"
+selected-border = "#ff2bd6"
+selected-border-alpha = 0.75
+
+[launcher]
+background = "#0b101b"
+background-alpha = 0.98
+border = "hyprland.active-border"
+scrim = "#050308"
+scrim-alpha = 0.6
+selected-background = "#ff2bd6"
+selected-background-alpha = 0.14
+selected-text = "#6af2ff"
+selected-border = "#ff2bd6"
+selected-border-alpha = 0.75
+
+[lock]
+background = "#090d17"
+background-alpha = 0.94
+text = "#f4ecff"
+placeholder = "#6af2ff"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#ff3b5c"
+selection = "#ff2bd6"
+selection-alpha = 0.35

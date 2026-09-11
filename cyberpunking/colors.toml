@@ -3,12 +3,12 @@ mode = "dark"
 # Neon Megacity — hot magenta against electric cyan and ultraviolet shadows.
 accent = "#26e6ff"
 selection = "#38245c"
-muted = "#66547f"
+muted = "#9186ad"
 
-background = "#100a1c"
+background = "#0b101b"
 dark_background = "#090610"
 darker_background = "#050308"
-lighter_background = "#211536"
+lighter_background = "#1b2035"
 
 foreground = "#f4ecff"
 dark_foreground = "#8e7ca8"
@@ -20,7 +20,7 @@ yellow = "#ffd166"
 orange = "#ff7849"
 green = "#39ff88"
 cyan = "#26e6ff"
-blue = "#398bff"
+blue = "#689bff"
 magenta = "#ff2bd6"
 brown = "#9c6b7b"
 
@@ -30,3 +30,7 @@ bright_green = "#63ffa3"
 bright_cyan = "#6af2ff"
 bright_blue = "#6ca8ff"
 bright_magenta = "#ff6be5"
+
+# Portable borders: regenerated Hyprland configs retain our neon identity.
+hyprland_active_border = "rgba(26e6ffff) rgba(ff2bd6ff) rgba(7a5cffff) 45deg"
+hyprland_inactive_border = "rgba(45305fbb)"
