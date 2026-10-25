@@ -1,0 +1,78 @@
+# The Final Frontier shell: gold navigation, rose selection, starlit indigo surfaces.
+# Unspecified tokens inherit Omarchy's palette-based defaults.
+[hyprland]
+active-border = "rgba(ffc86bff) rgba(ff8ac6ff) rgba(a58bffff) rgba(6ff0d6ff) 60deg"
+active-border-foreground = "rgba(ffc86bff) rgba(a58bffff) 60deg"
+
+[bar]
+background = "#080b1d"
+background-alpha = 0.95
+text = "#dfe3ff"
+active = "#ffc86b"
+size-horizontal = 30
+size-vertical = 32
+
+[controls]
+normal-color = "#d4d8f5"
+normal-border = "#7f86b8"
+normal-border-alpha = 0.35
+hover-cursor-color = "#6ff0d6"
+hover-cursor-border = "#6ff0d6"
+hover-cursor-fill-alpha = 0.12
+hover-cursor-border-alpha = 0.75
+focus-color = "#ffc86b"
+focus-border = "#ffc86b"
+focus-border-alpha = 1.0
+focus-fill-alpha = 0.12
+selected-color = "#ff9fd6"
+selected-border = "#ff8ac6"
+selected-border-width = 1
+selected-fill-alpha = 0.14
+
+[popups]
+background = "#0b0f26"
+background-alpha = 0.97
+border = "hyprland.active-border"
+border-width = 2
+
+[notifications]
+background = "#0b0f26"
+background-alpha = 0.97
+border = "hyprland.active-border"
+border-width = "2 2 2 4"
+countdown = "#6ff0d6"
+
+[menu]
+background = "#0b0f26"
+background-alpha = 0.97
+border = "hyprland.active-border"
+scrim = "#04060f"
+scrim-alpha = 0.55
+selected-background = "#a58bff"
+selected-background-alpha = 0.16
+selected-text = "#ffdc9a"
+selected-border = "#ff8ac6"
+selected-border-alpha = 0.75
+
+[launcher]
+background = "#0b0f26"
+background-alpha = 0.97
+border = "hyprland.active-border"
+scrim = "#04060f"
+scrim-alpha = 0.55
+selected-background = "#a58bff"
+selected-background-alpha = 0.16
+selected-text = "#ffdc9a"
+selected-border = "#ff8ac6"
+selected-border-alpha = 0.75
+
+[lock]
+background = "#080b1d"
+background-alpha = 0.92
+text = "#eef1ff"
+placeholder = "#6ff0d6"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#ff5f7e"
+selection = "#a58bff"
+selection-alpha = 0.35

@@ -1,0 +1,37 @@
+mode = "dark"
+
+# The Final Frontier — sunrise over a new world: stellar gold, nebula rose,
+# violet twilight, and aurora teal against deep cosmic indigo.
+accent = "#ffc86b"
+selection = "#2c2a66"
+muted = "#7f86b8"
+
+background = "#0b0f26"
+dark_background = "#080b1d"
+darker_background = "#04060f"
+lighter_background = "#171d44"
+
+foreground = "#eef1ff"
+dark_foreground = "#9aa0cf"
+light_foreground = "#d4d8f5"
+bright_foreground = "#ffffff"
+
+red = "#ff7a93"
+yellow = "#ffc86b"
+orange = "#ff9f6b"
+green = "#7ef0b0"
+cyan = "#6fd8ff"
+blue = "#7fa8ff"
+magenta = "#c49bff"
+brown = "#b08a6e"
+
+bright_red = "#ff9aae"
+bright_yellow = "#ffdc9a"
+bright_green = "#9dffc8"
+bright_cyan = "#9fe6ff"
+bright_blue = "#a6c2ff"
+bright_magenta = "#ff9fd6"
+
+# Portable borders: the sunrise gradient survives Git installs.
+hyprland_active_border = "rgba(ffc86bff) rgba(ff8ac6ff) rgba(a58bffff) rgba(6ff0d6ff) 60deg"
+hyprland_inactive_border = "rgba(2f3570bb)"
