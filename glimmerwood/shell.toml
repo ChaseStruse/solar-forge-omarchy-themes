@@ -1,0 +1,79 @@
+# Glimmerwood shell: wisp-mint navigation, toadstool-rose selection,
+# firefly-gold hover, twilight plum surfaces.
+# Unspecified tokens inherit Omarchy's palette-based defaults.
+[hyprland]
+active-border = "rgba(7ff7c4ff) rgba(ffd96aff) rgba(ff6f9cff) rgba(c39bffff) 45deg"
+active-border-foreground = "rgba(7ff7c4ff) rgba(ff6f9cff) 45deg"
+
+[bar]
+background = "#0e0b1f"
+background-alpha = 0.94
+text = "#efe6d6"
+active = "#7ff7c4"
+size-horizontal = 30
+size-vertical = 32
+
+[controls]
+normal-color = "#e2d9ef"
+normal-border = "#8a80b8"
+normal-border-alpha = 0.35
+hover-cursor-color = "#ffd96a"
+hover-cursor-border = "#ffd96a"
+hover-cursor-fill-alpha = 0.12
+hover-cursor-border-alpha = 0.75
+focus-color = "#7ff7c4"
+focus-border = "#7ff7c4"
+focus-border-alpha = 1.0
+focus-fill-alpha = 0.12
+selected-color = "#ff9cbc"
+selected-border = "#ff6f9c"
+selected-border-width = 1
+selected-fill-alpha = 0.14
+
+[popups]
+background = "#141029"
+background-alpha = 0.96
+border = "hyprland.active-border"
+border-width = 2
+
+[notifications]
+background = "#141029"
+background-alpha = 0.96
+border = "hyprland.active-border"
+border-width = "2 2 2 4"
+countdown = "#ffd96a"
+
+[menu]
+background = "#141029"
+background-alpha = 0.96
+border = "hyprland.active-border"
+scrim = "#080612"
+scrim-alpha = 0.5
+selected-background = "#c39bff"
+selected-background-alpha = 0.18
+selected-text = "#ffe89e"
+selected-border = "#ff6f9c"
+selected-border-alpha = 0.75
+
+[launcher]
+background = "#141029"
+background-alpha = 0.96
+border = "hyprland.active-border"
+scrim = "#080612"
+scrim-alpha = 0.5
+selected-background = "#c39bff"
+selected-background-alpha = 0.18
+selected-text = "#ffe89e"
+selected-border = "#ff6f9c"
+selected-border-alpha = 0.75
+
+[lock]
+background = "#0e0b1f"
+background-alpha = 0.9
+text = "#f4ecd8"
+placeholder = "#7ff7c4"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#ff5f8a"
+selection = "#c39bff"
+selection-alpha = 0.35
