@@ -1,0 +1,79 @@
+# Solar Ram Studios shell: emerald navigation, silver-white highlights,
+# obsidian surfaces that let the glow do the talking.
+# Unspecified tokens inherit Omarchy's palette-based defaults.
+[hyprland]
+active-border = "rgba(20d99aff) rgba(f2f5f4ff) rgba(11995dff) rgba(5dffc0ff) 45deg"
+active-border-foreground = "rgba(20d99aff) rgba(f2f5f4ff) 45deg"
+
+[bar]
+background = "#020906"
+background-alpha = 0.96
+text = "#d3dbd8"
+active = "#20d99a"
+size-horizontal = 30
+size-vertical = 32
+
+[controls]
+normal-color = "#d3dbd8"
+normal-border = "#787e81"
+normal-border-alpha = 0.35
+hover-cursor-color = "#f2f5f4"
+hover-cursor-border = "#f2f5f4"
+hover-cursor-fill-alpha = 0.1
+hover-cursor-border-alpha = 0.75
+focus-color = "#20d99a"
+focus-border = "#20d99a"
+focus-border-alpha = 1.0
+focus-fill-alpha = 0.14
+selected-color = "#5dffc0"
+selected-border = "#20d99a"
+selected-border-width = 1
+selected-fill-alpha = 0.18
+
+[popups]
+background = "#040f0b"
+background-alpha = 0.97
+border = "hyprland.active-border"
+border-width = 2
+
+[notifications]
+background = "#040f0b"
+background-alpha = 0.97
+border = "hyprland.active-border"
+border-width = "2 2 2 4"
+countdown = "#20d99a"
+
+[menu]
+background = "#040f0b"
+background-alpha = 0.97
+border = "hyprland.active-border"
+scrim = "#000000"
+scrim-alpha = 0.6
+selected-background = "#20d99a"
+selected-background-alpha = 0.18
+selected-text = "#5dffc0"
+selected-border = "#20d99a"
+selected-border-alpha = 0.85
+
+[launcher]
+background = "#040f0b"
+background-alpha = 0.97
+border = "hyprland.active-border"
+scrim = "#000000"
+scrim-alpha = 0.6
+selected-background = "#20d99a"
+selected-background-alpha = 0.18
+selected-text = "#5dffc0"
+selected-border = "#20d99a"
+selected-border-alpha = 0.85
+
+[lock]
+background = "#020906"
+background-alpha = 0.92
+text = "#f2f5f4"
+placeholder = "#20d99a"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#ff5c7a"
+selection = "#20d99a"
+selection-alpha = 0.35

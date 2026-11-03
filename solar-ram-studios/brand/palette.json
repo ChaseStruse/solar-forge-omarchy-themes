@@ -1,0 +1,77 @@
+{
+  "brand": "Solar Ram Studios",
+  "color_space": "sRGB",
+  "note": "Working theme palette. Generated artwork contains continuous shades; these are reference colors, not an exhaustive pixel palette. Sampling uses a resized 10-color quantization of Emerald Eclipse.",
+  "colors": [
+    {
+      "name": "Solar Emerald",
+      "hex": "#20D99A",
+      "rgb": [
+        32,
+        217,
+        154
+      ],
+      "use": "Primary brand accent; intended generation target"
+    },
+    {
+      "name": "Deep Emerald",
+      "hex": "#11995D",
+      "rgb": [
+        17,
+        153,
+        93
+      ],
+      "use": "Secondary green; sampled approximation from Eclipse"
+    },
+    {
+      "name": "Forest Shadow",
+      "hex": "#05542D",
+      "rgb": [
+        5,
+        84,
+        45
+      ],
+      "use": "Subdued green; sampled approximation from Eclipse"
+    },
+    {
+      "name": "Obsidian",
+      "hex": "#040F0B",
+      "rgb": [
+        4,
+        15,
+        11
+      ],
+      "use": "Background; sampled approximation from Eclipse"
+    },
+    {
+      "name": "Charcoal Steel",
+      "hex": "#3A3E41",
+      "rgb": [
+        58,
+        62,
+        65
+      ],
+      "use": "Sculptural midtones; sampled approximation from Eclipse"
+    },
+    {
+      "name": "Slate Silver",
+      "hex": "#787E81",
+      "rgb": [
+        120,
+        126,
+        129
+      ],
+      "use": "Metal and fur highlights; sampled approximation from Eclipse"
+    },
+    {
+      "name": "Silver White",
+      "hex": "#F2F5F4",
+      "rgb": [
+        242,
+        245,
+        244
+      ],
+      "use": "Recommended bright neutral for text and highlights"
+    }
+  ]
+}

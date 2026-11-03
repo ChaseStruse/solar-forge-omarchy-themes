@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="840" viewBox="0 0 1080 840">
+<rect width="1080" height="840" fill="#090D0C"/>
+<g font-family="sans-serif" fill="#F2F5F4"><text x="48" y="62" font-size="30" font-weight="700">SOLAR RAM STUDIOS</text><text x="48" y="98" font-size="18" fill="#AAB7B1">Emerald / silver-white / charcoal — working theme palette</text>
+<rect x="48" y="132" width="150" height="66" rx="8" fill="#20D99A" stroke="#65706B"/>
+<text x="224" y="157" font-size="21" font-weight="600">Solar Emerald   #20D99A</text>
+<text x="224" y="183" font-size="15" fill="#AAB7B1">Primary brand accent; intended generation target</text>
+<rect x="48" y="220" width="150" height="66" rx="8" fill="#11995D" stroke="#65706B"/>
+<text x="224" y="245" font-size="21" font-weight="600">Deep Emerald   #11995D</text>
+<text x="224" y="271" font-size="15" fill="#AAB7B1">Secondary green; sampled approximation from Eclipse</text>
+<rect x="48" y="308" width="150" height="66" rx="8" fill="#05542D" stroke="#65706B"/>
+<text x="224" y="333" font-size="21" font-weight="600">Forest Shadow   #05542D</text>
+<text x="224" y="359" font-size="15" fill="#AAB7B1">Subdued green; sampled approximation from Eclipse</text>
+<rect x="48" y="396" width="150" height="66" rx="8" fill="#040F0B" stroke="#65706B"/>
+<text x="224" y="421" font-size="21" font-weight="600">Obsidian   #040F0B</text>
+<text x="224" y="447" font-size="15" fill="#AAB7B1">Background; sampled approximation from Eclipse</text>
+<rect x="48" y="484" width="150" height="66" rx="8" fill="#3A3E41" stroke="#65706B"/>
+<text x="224" y="509" font-size="21" font-weight="600">Charcoal Steel   #3A3E41</text>
+<text x="224" y="535" font-size="15" fill="#AAB7B1">Sculptural midtones; sampled approximation from Eclipse</text>
+<rect x="48" y="572" width="150" height="66" rx="8" fill="#787E81" stroke="#65706B"/>
+<text x="224" y="597" font-size="21" font-weight="600">Slate Silver   #787E81</text>
+<text x="224" y="623" font-size="15" fill="#AAB7B1">Metal and fur highlights; sampled approximation from Eclipse</text>
+<rect x="48" y="660" width="150" height="66" rx="8" fill="#F2F5F4" stroke="#65706B"/>
+<text x="224" y="685" font-size="21" font-weight="600">Silver White   #F2F5F4</text>
+<text x="224" y="711" font-size="15" fill="#AAB7B1">Recommended bright neutral for text and highlights</text>
+</g></svg>
