@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Glimmerwood — an enchanted twilight forest: wisp mint, firefly gold,
+# toadstool rose, and pixie lilac glowing against deep plum shadows.
+accent = "#7ff7c4"
+selection = "#33285e"
+muted = "#8a80b8"
+
+background = "#141029"
+dark_background = "#0e0b1f"
+darker_background = "#080612"
+lighter_background = "#211a40"
+
+foreground = "#f4ecd8"
+dark_foreground = "#a79fc8"
+light_foreground = "#e2d9ef"
+bright_foreground = "#fffaf0"
+
+red = "#ff6f9c"
+yellow = "#ffd96a"
+orange = "#ffa36b"
+green = "#9dff8a"
+cyan = "#7ff7e0"
+blue = "#8fb4ff"
+magenta = "#c39bff"
+brown = "#c49a6c"
+
+bright_red = "#ff9cbc"
+bright_yellow = "#ffe89e"
+bright_green = "#c2ffb5"
+bright_cyan = "#b3fff0"
+bright_blue = "#b8d0ff"
+bright_magenta = "#ddc4ff"
+
+# Portable borders: the fairy-light gradient survives Git installs.
+hyprland_active_border = "rgba(7ff7c4ff) rgba(ffd96aff) rgba(ff6f9cff) rgba(c39bffff) 45deg"
+hyprland_inactive_border = "rgba(3a2f6abb)"
