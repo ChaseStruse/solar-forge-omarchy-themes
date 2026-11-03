@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Solar Ram Studios — the Solar Ram's emerald fire and silver-white edge light
+# burning out of obsidian black. Built on the brand palette in brand/palette.json.
+accent = "#20d99a"
+selection = "#0b3d29"
+muted = "#787e81"
+
+background = "#040f0b"
+dark_background = "#020906"
+darker_background = "#000000"
+lighter_background = "#0f1f19"
+
+foreground = "#f2f5f4"
+dark_foreground = "#9aa4a0"
+light_foreground = "#d3dbd8"
+bright_foreground = "#ffffff"
+
+red = "#ff5c7a"
+yellow = "#d4f27a"
+orange = "#ff8f6b"
+green = "#20d99a"
+cyan = "#3fe8d0"
+blue = "#5fb4ff"
+magenta = "#b49cff"
+brown = "#8f9a7c"
+
+bright_red = "#ff8aa0"
+bright_yellow = "#e6ffa3"
+bright_green = "#5dffc0"
+bright_cyan = "#7ff5e4"
+bright_blue = "#8fccff"
+bright_magenta = "#cfc0ff"
+
+# Portable borders: the emerald-and-silver forge gradient survives Git installs.
+hyprland_active_border = "rgba(20d99aff) rgba(f2f5f4ff) rgba(11995dff) rgba(5dffc0ff) 45deg"
+hyprland_inactive_border = "rgba(05542daa)"
