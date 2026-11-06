@@ -1,0 +1,79 @@
+# Y2K shell: bubblegum-pink focus, aqua-glass selection, acid-lime hover,
+# midnight-indigo surfaces wrapped in a holographic chrome border.
+# Unspecified tokens inherit Omarchy's palette-based defaults.
+[hyprland]
+active-border = "rgba(ff6ad5ff) rgba(4ff3ffff) rgba(b6ff3bff) rgba(ffa53dff) rgba(b98cffff) 45deg"
+active-border-foreground = "rgba(ff6ad5ff) rgba(4ff3ffff) 45deg"
+
+[bar]
+background = "#0c091f"
+background-alpha = 0.9
+text = "#f3f1ff"
+active = "#ff6ad5"
+size-horizontal = 30
+size-vertical = 32
+
+[controls]
+normal-color = "#dedbf7"
+normal-border = "#8f88c9"
+normal-border-alpha = 0.35
+hover-cursor-color = "#b6ff3b"
+hover-cursor-border = "#b6ff3b"
+hover-cursor-fill-alpha = 0.14
+hover-cursor-border-alpha = 0.8
+focus-color = "#ff6ad5"
+focus-border = "#ff6ad5"
+focus-border-alpha = 1.0
+focus-fill-alpha = 0.14
+selected-color = "#a3f9ff"
+selected-border = "#4ff3ff"
+selected-border-width = 1
+selected-fill-alpha = 0.16
+
+[popups]
+background = "#120e2b"
+background-alpha = 0.94
+border = "hyprland.active-border"
+border-width = 2
+
+[notifications]
+background = "#120e2b"
+background-alpha = 0.94
+border = "hyprland.active-border"
+border-width = "2 2 2 4"
+countdown = "#b6ff3b"
+
+[menu]
+background = "#120e2b"
+background-alpha = 0.94
+border = "hyprland.active-border"
+scrim = "#060414"
+scrim-alpha = 0.5
+selected-background = "#ff6ad5"
+selected-background-alpha = 0.2
+selected-text = "#f9ff9a"
+selected-border = "#4ff3ff"
+selected-border-alpha = 0.8
+
+[launcher]
+background = "#120e2b"
+background-alpha = 0.94
+border = "hyprland.active-border"
+scrim = "#060414"
+scrim-alpha = 0.5
+selected-background = "#ff6ad5"
+selected-background-alpha = 0.2
+selected-text = "#f9ff9a"
+selected-border = "#4ff3ff"
+selected-border-alpha = 0.8
+
+[lock]
+background = "#0c091f"
+background-alpha = 0.88
+text = "#f3f1ff"
+placeholder = "#ff6ad5"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#ff4f8b"
+selection = "#4ff3ff"
+selection-alpha = 0.3
