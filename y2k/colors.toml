@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Y2K — turn-of-the-millennium chrome dreams: bubblegum pink, aqua glass,
+# acid lime, tangerine, and holographic violet glowing over midnight indigo.
+accent = "#ff6ad5"
+selection = "#3a2a78"
+muted = "#8f88c9"
+
+background = "#120e2b"
+dark_background = "#0c091f"
+darker_background = "#060414"
+lighter_background = "#1f1847"
+
+foreground = "#f3f1ff"
+dark_foreground = "#a8a3d6"
+light_foreground = "#dedbf7"
+bright_foreground = "#ffffff"
+
+red = "#ff4f8b"
+yellow = "#f4ff52"
+orange = "#ffa53d"
+green = "#b6ff3b"
+cyan = "#4ff3ff"
+blue = "#6e9bff"
+magenta = "#ff6ad5"
+brown = "#c9a27a"
+
+bright_red = "#ff8fb5"
+bright_yellow = "#f9ff9a"
+bright_green = "#d6ff8a"
+bright_cyan = "#a3f9ff"
+bright_blue = "#a8c3ff"
+bright_magenta = "#ffa8e8"
+
+# Portable borders: the holographic chrome gradient survives Git installs.
+hyprland_active_border = "rgba(ff6ad5ff) rgba(4ff3ffff) rgba(b6ff3bff) rgba(ffa53dff) rgba(b98cffff) 45deg"
+hyprland_inactive_border = "rgba(3a2a78bb)"
